@@ -7,7 +7,8 @@
     "dev": "yarn vite",
     "build": "yarn vite build",
     "lint": "yarn eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "yarn vite preview"
+    "preview": "yarn vite preview",
+    "start": "npm start"
   },
   "bun": "0.1.11",
   "dependencies": {
